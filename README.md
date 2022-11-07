@@ -29,7 +29,7 @@ git clone https://github.com/amentetteh/es6-awesome-books.git
 
 ```
 
-https://gealsanchez.github.io/es6-awesome-books/
+https://amentetteh.github.io/es6-awesome-books/
 
 ### Usage
 
