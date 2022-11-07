@@ -1,11 +1,11 @@
-# AwesomeBooks
-2 Module Week 1
+# es6-awesome-books
+Module 2 Week 1
 
 ## Built With
 
 - Major languages :\
 
-**Javascript** \
+**Javascript** 
   **HTML5**  
   **CSS3**
 
@@ -23,13 +23,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup & Install
 
-Download sources from [Githubhttps://github.com/amentetteh/AwesomeBooks/awesomeBooks.zip) or throught the command: 
+Download sources from [Githubhttps://github.com/amentetteh/es6-awesome-books/awesomeBooks.zip) or throught the command: 
 ```
-git clone https://github.com/amentetteh/AwesomeBooks.git
+git clone https://github.com/amentetteh/es6-awesome-books.git
 
 ```
 
-https://gealsanchez.github.io/AwesomeBooks/
+https://gealsanchez.github.io/es6-awesome-books/
 
 ### Usage
 
@@ -40,7 +40,7 @@ After downloading source on your local machine, you can simply edit the HTML and
 ### Deployment
 Deploy on any web hosting server cloud/in site and enjoy 
 
-https://amentetteh.github.io/AwesomeBooks/
+https://amentetteh.github.io/es6-awesome-books/
 
 
 ## Authors
