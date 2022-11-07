@@ -5,7 +5,7 @@ Module 2 Week 1
 
 - Major languages :\
 
-**Javascript** 
+**Javascript** \
   **HTML5**  
   **CSS3**
 
