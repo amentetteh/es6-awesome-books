@@ -3,7 +3,7 @@ Module 2 Week 1
 
 ## Built With
 
-- Major languages :\
+- Major languages :
 
 **Javascript** \
   **HTML5**  
