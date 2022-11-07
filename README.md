@@ -33,7 +33,7 @@ git clone https://github.com/amentetteh/es6-awesome-books.git
 
 After downloading source on your local machine, you can simply edit the HTML and CSS files from the folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
 
-[Go Live] (https://github.com/amentetteh/es6-awesome-books)
+[Go Live] (https://amentetteh.github.io/es6-awesome-books/)
 
 ### Deployment
 Deploy on any web hosting server cloud/in site and enjoy 
