@@ -23,9 +23,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup & Install
 
-Download sources from [Githubhttps://github.com/gealsanchez/AwesomeBooks/awesomeBooks.zip) or throught the command: 
+Download sources from [Githubhttps://github.com/amentetteh/AwesomeBooks/awesomeBooks.zip) or throught the command: 
 ```
-git clone https://github.com/gealsanchez/AwesomeBooks.git
+git clone https://github.com/amentetteh/AwesomeBooks.git
 
 ```
 
@@ -40,19 +40,10 @@ After downloading source on your local machine, you can simply edit the HTML and
 ### Deployment
 Deploy on any web hosting server cloud/in site and enjoy 
 
-https://gealsanchez.github.io/AwesomeBooks/
+https://amentetteh.github.io/AwesomeBooks/
 
 
 ## Authors
-
-👤 **Gerson SANCHEZ**
-
-- GitHub: [@githubhandle](https://github.com/gealsanchez)
-- Twitter: [@twitterhandle](https://twitter.com/gealsanchez)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gerson-sanchez-88309b57/)
-
-
-## 🤝 Contributing
 
 👤 **Amen TETTEH**
 
@@ -60,11 +51,8 @@ https://gealsanchez.github.io/AwesomeBooks/
 - Twitter: [@amentetteh](https://twitter.com/amentetteh)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/amentetteh)
 
-👤 **Alqama Saeed**
 
-- GitHub: [@smas0900](https://github.com/smas0900)
-- Twitter: [@AlqamaSaeed](https://twitter.com/AlqamaSaeed)
-- LinkedIn: [AlqamaSaeed](linkedin.com/in/alqama-saeed-598086120)
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
