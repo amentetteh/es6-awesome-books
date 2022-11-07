@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Awesome Books</title>
+</head>
+<body>
+    <header>
+        <nav class="nav-bar">
+            <section class="logo"><a>Awesome Books</a></section>
+            <ul class="list-Container">
+                <li><a href="#book-list" id="list" class="nav-link">List</a></li>
+                <li><a href="#book-add" id="new-add" class="nav-link">add new</a></li>
+                <li><a href="#contact-info" id="contact" class="nav-link">contact</a></li>
+            </ul>
+        </nav>
+        <span id="datetime">Testing</span>
+    </header>
+    <main class="content">
+        <section id="book-list">
+            <h1>All awesome books</h1>
+            <table class="table" id="books-table">
+            </table>
+        </section>
+        <section id="book-add">
+            <h2>Add a new book</h2>
+            <form>
+                <div class="field hidden">
+                    <input type="text" class="form-control" name="bookID" id="bookID">
+                </div>
+                <div class="field">
+                    <input type="text" class="form-control" name="booktitle" id="booktitle" aria-describedby="Title"
+                        placeholder="Title" required>
+                </div>
+                <div class="field">
+                    <input type="text" class="form-control" name="bookauthor" id="bookauthor" aria-describedby="Author"
+                        placeholder="Author" required>
+                </div>
+                <input type="submit" class="form-control button" name="addbutton" id="addbutton" aria-describedby="Add"
+                    value="Add">
+            </form>
+        </section>
+        <section id="contact-info">
+            <h1>Contact Information</h1>
+            <p>onsectetur adipisicing elit. Sit, dignissimos! Deleniti iste quas error numquam eaque illum illo officiis cumque et impedit saepe, cupiditate est incidunt similique consequuntur velit quae
+            </p>
+            <div class="contact-list"></div>
+        </section>
+    </main>
+    <footer>
+        <h2>Copyright</h2>
+    </footer>
+    <script src="luxon.js" type="module"></script>
+    <script src="index.js" type="module"></script>
+</body>
+
+</html>
