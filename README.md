@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup & Install
 
-Download sources from [Githubhttps://github.com/amentetteh/es6-awesome-books/awesomeBooks.zip) or throught the command: 
+Download sources from [https://github.com/amentetteh/es6-awesome-books.git](https://github.com/amentetteh/es6-awesome-books.git) or throught the command: 
 ```
 git clone https://github.com/amentetteh/es6-awesome-books.git
 
